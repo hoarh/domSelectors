@@ -60,16 +60,21 @@
  * When button 2 is clicked, change the color of all h2's to "green"
  */
 
- 	function question5 (){
- 		$('h2').css("color","green");
- 	}
- 	$('#button2').click(question5);
+ 	//function question5 (){
+ 		//$('h2').css("color","green");
+ 	//}
+ 	//$('#button2').click(question5);
 
 
 /**
  * Question 6:
  * When button 2 is clicked, change the html content of all "blockquotes" to be "<span>no quote</span>"
  */
+
+ 	//function question6 () {
+ 		//$('blockquote').html('<span>no quote</span>');
+ 	//}
+ 	//$('#button2').click(question6)
 
 
 //SECTION 3: This section is more difficult. Try your hand at the next 3 questions.
