@@ -84,17 +84,20 @@
  * When button 3 is clicked, change the text in the header's h1 tag to read "jQuery Ninja"
  */
 
- 	function question7 () {
- 		$('h1').html("jQuery Ninja");
- 	}
- 	$('#button3').click(question7);
+ 	//function question7 () {
+ 		//$('h1').html("jQuery Ninja");
+ 	//}
+ 	//$('#button3').click(question7);
 /**
  * Question 8:
  * Have the following code execute when button 3 is clicked. Write a JavaScript comment with a description of what happened. 
  * $(".city").attr("src", "http://lorempixel.com/g/500/400/food");
  */
-
-
+ 	//function question8 () {
+ 		//$(".city").attr("src", "http://lorempixel.com/g/500/400/food");
+ 	//}
+ 	//$('#button3').click(question8);
+ 	//the picture changed to a picture of food!
 /**
  * Question 9:
  * When button 3 is clicked, select all paragraphs on the page and change the color to blue and font to Georgia.
