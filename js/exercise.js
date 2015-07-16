@@ -49,6 +49,11 @@
  * When button 2 is clicked, change the background color of the whole page to "pink"
  */
 
+ 	function question4 () {
+ 		$("body").css("background-color", "pink");
+ 	}
+ 	$('#button2').click(question4);
+
 
 
 /**
